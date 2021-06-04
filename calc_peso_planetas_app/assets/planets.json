@@ -1,0 +1,70 @@
+{
+    "planets": [
+        {
+            "id": 1,
+            "name": "sun",
+            "title": "Sol",
+            "gravity": 274.13
+        },
+        {
+            "id": 2,
+            "name": "mercury",
+            "title": "Mercúrio",
+            "gravity": 3.7
+        },
+        {
+            "id": 3,
+            "name": "venus",
+            "title": "Vênus",
+            "gravity": 8.87
+        },
+        {
+            "id": 4,
+            "name": "earth",
+            "title": "Terra",
+            "gravity": 9.807
+        },
+        {
+            "id": 5,
+            "name": "moon",
+            "title": "Lua",
+            "gravity": 1.622
+        },
+        {
+            "id": 6,
+            "name": "mars",
+            "title": "Marte",
+            "gravity": 3.711
+        },
+        {
+            "id": 7,
+            "name": "jupiter",
+            "title": "Júpiter",
+            "gravity": 24.79
+        },
+        {
+            "id": 8,
+            "name": "saturn",
+            "title": "Saturno",
+            "gravity": 10.44
+        },
+        {
+            "id": 9,
+            "name": "uranos",
+            "title": "Urano",
+            "gravity": 8.69
+        },
+        {
+            "id": 10,
+            "name": "neptune",
+            "title": "Netuno",
+            "gravity": 11.15
+        },
+        {
+            "id": 11,
+            "name": "pluto",
+            "title": "Plutão",
+            "gravity": 0.62
+        }
+    ]
+}
