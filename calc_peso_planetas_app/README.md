@@ -1,6 +1,12 @@
-# calc_peso_planetas_app
-
-A new Flutter project.
+# Simple App em Flutter para calcular o seu peso corporal em outros planetas.
+ 
+Explorando o estudo para uso de: 
+- Configuração de ambiente 
+- Arquitetura do framework 
+- Conceitos de componentes stateless e stateful 
+- Listas, envio de formulário e validações 
+- Navegação e rotas entre telas
+- Manipulação de arquivo json e assets
 
 ## Getting Started
 
