@@ -2,6 +2,6 @@
 
 ***Matriz CSD***
 
-(/assets/Arquitetura_Conceitual.png)
+!(/assets/Arquitetura_Conceitual.png)
 
 
