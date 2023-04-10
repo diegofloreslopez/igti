@@ -121,3 +121,19 @@
 ***Modelo C4 - Níve 4 - Diagrama de Código***
 
 ![Diagrama de Codigo](assets/c4_n4-codigo.png)
+
+***Diagrama de Sequência(Parte 1)***
+
+![Diagrama de Sequencia](assets/diagrama_seq-n4_p1.png)
+
+***Diagrama de Sequência(Parte 2)***
+
+![Diagrama de Sequencia](assets/diagrama_seq-n4_p2.png)
+
+***Diagrama de Sequência(Parte 3)***
+
+![Diagrama de Sequencia](assets/diagrama_seq-n4_p3.png)
+
+***Diagrama de Sequência(Parte 4)***
+
+![Diagrama de Sequencia](assets/diagrama_seq-n4_p4.png)
