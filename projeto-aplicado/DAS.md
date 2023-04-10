@@ -2,6 +2,6 @@
 
 ***Matriz CSD***
 
-![This is an image](assets/Arquitetura Conceitual.png) 
+![This is an image](assets/matrix_csd.png) 
 
 
