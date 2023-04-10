@@ -2,8 +2,8 @@
 
 ***Matriz CSD***
 
-![This is an image](assets/matrix_csd.png) 
+![This is an image](assets/matriz_csd.png) 
 
 ***Matriz POEMS***
 
-![This is an image](assets/matrix_poems.png)
+![This is an image](assets/matriz_poems.png)
