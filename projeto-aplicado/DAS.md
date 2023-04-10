@@ -86,3 +86,38 @@
 
 ![Arquitetura Conceitual](assets/arquitetura_conceitual.png)
 
+***Modelo C4 - Níve 1 - Diagrama de Contexto***
+
+![Diagrama de Contexto](assets/c4_n1-contexto.png)
+
+***Modelo C4 - Níve 2 - Diagrama de Container(Principal)***
+
+![Diagrama de Container](assets/c4_n2-container_principal.png)
+
+***Modelo C4 - Níve 2 - Diagrama de Container(APIs e Frameworks)***
+
+![Diagrama de Container](assets/c4_n2-container_apis.png)
+
+***Modelo C4 - Níve 2 - Diagrama de Container(Design do Microserviço)***
+
+![Diagrama de Container](assets/c4_n2-design_microservice.png)
+
+***Modelo C4 - Níve 3 - Diagrama de Componentes(Parte 1)***
+
+![Diagrama de Componentes](assets/c4_n3-componentes_p1.png)
+
+***Modelo C4 - Níve 3 - Diagrama de Componentes(Parte 2)***
+
+![Diagrama de Componentes](assets/c4_n3-componentes_p2.png)
+
+***Modelo C4 - Níve 3 - Diagrama de Componentes(Parte 3)***
+
+![Diagrama de Componentes](assets/c4_n3-componentes_p3.png)
+
+***Modelo C4 - Níve 3 - Diagrama de Componentes(Parte 4)***
+
+![Diagrama de Componentes](assets/c4_n3-componentes_p4.png)
+
+***Modelo C4 - Níve 4 - Diagrama de Código***
+
+![Diagrama de Codigo](assets/c4_n4-codigo.png)
