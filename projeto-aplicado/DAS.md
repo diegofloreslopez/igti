@@ -3,9 +3,11 @@
 
 >**Modelo e técnicas usadas para o DAS:** Design Thinking para exploração do problema e solução , TDD/BDD para visualização dos requisitos funcionais e modelo C4 para notação técnica enxuta da solução
 
+
 ***Matriz CSD***
 
 ![Matriz CSD](assets/matriz_csd.png) 
+
 
 ***Matriz POEMS***
 
