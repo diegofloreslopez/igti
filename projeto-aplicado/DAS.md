@@ -24,7 +24,7 @@
 
 ***Strategy Blueprint***
 
-![Estrategy Blueprint](assets/blueprint_strategy.png)
+![Estrategy Blueprint](assets/blueprint_strategy.jpg)
 
 ***Business Blueprint - Problema***
 
@@ -40,7 +40,7 @@
 
 ***Proposta de Valor***
 
-![Proposta de Valor](assets/canvas_prop_valor.png)
+![Proposta de Valor](assets/canvas_prop_valor.jpg)
 
 ***Hipóteses***
 
