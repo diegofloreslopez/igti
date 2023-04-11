@@ -144,3 +144,5 @@ Modelo e técnicas usadas para o DAS: Design Thinking para exploração do probl
 ## **Diagrama de Sequência(Parte 4)**
 
 ![Diagrama de Sequencia](assets/diagrama_seq-n4_p4.png)
+
+**  **
