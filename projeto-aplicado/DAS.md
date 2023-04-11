@@ -1,8 +1,8 @@
 # **Documento de Arquitetura de Software - GigBooking**
 
-**Construção de um projeto arquitetural para uma plataforma com interface web e aplicativo, que conecte de forma mais rápida, artistas aos contratantes da indústria musical para shows ao vivo, amplificando as possibilidades entre músicos e empregadores.**
+Construção de um projeto arquitetural para uma plataforma com interface web e aplicativo, que conecte de forma mais rápida, artistas aos contratantes da indústria musical para shows ao vivo, amplificando as possibilidades entre músicos e empregadores.
 
-**Modelo e técnicas usadas para o DAS:** Design Thinking para exploração do problema e solução , TDD/BDD para visualização dos requisitos funcionais e modelo C4 para notação técnica enxuta da solução
+Modelo e técnicas usadas para o DAS: Design Thinking para exploração do problema e solução , TDD/BDD para visualização dos requisitos funcionais e modelo C4 para notação técnica enxuta da solução.
 
 **  **
 
