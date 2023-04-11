@@ -18,9 +18,9 @@
 
 ***Mapa de Empatia***
 
-![Mapa de Empatia](assets/mapa_empatia-musico.png)
+![Mapa de Empatia](assets/mapa_empatia-musico.jpg)
 
-![Mapa de Empatia](assets/mapa_empatia-contratante.png)
+![Mapa de Empatia](assets/mapa_empatia-contratante.jpg)
 
 ***Strategy Blueprint***
 
