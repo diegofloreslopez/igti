@@ -1,7 +1,14 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.calc_peso_planetas_app">
-    <!-- Flutter needs it to communicate with the running application
-         to allow setting breakpoints, to provide hot reload, etc.
-    -->
-    <uses-permission android:name="android.permission.INTERNET"/>
+    package="com.calc_peso_planetas_app"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:label="My Application"
+        android:icon="@drawable/app_icon"
+        tools:replace="android:label, android:icon">
+
+        <!-- Activities, services, receivers, etc. -->
+
+    </application>
+
 </manifest>

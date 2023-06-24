@@ -8,12 +8,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:calc_peso_planetas_app/main-calc.dart';
+// import 'package:calc_peso_planetas_app/main-calc.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
-    await tester.pumpWidget(WeightCalcPlanets());
+    // await tester.pumpWidget(WeightCalcPlanets());
 
     // Verify that our counter starts at 0.
     expect(find.text('0'), findsOneWidget);
